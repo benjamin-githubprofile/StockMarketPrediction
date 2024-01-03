@@ -37,7 +37,7 @@ These features are used to understand stock price trends and make predictions.
 Instructions on how to set up the project environment:
 ```bash
 # clone the repository
-git clone [repository-url]
+git clone https://github.com/benjamin-githubprofile/StockMarketPrediction
 
 # navigate to the project directory
 cd [project-directory]
