@@ -39,9 +39,7 @@ These features are used to understand stock price trends and make predictions.
 
 ### RNN Graphs
 ![RNN Graph_1](visualization/rnn_1.png)
-![RNN Graph_2](visualization/rnn_2.png)
-![RNN Graph_3](visualization/rnn_3.png)
-![RNN Graph_4](visualization/rnn_4png)
+
 
 ## Installation and Usage
 Instructions on how to set up the project environment:
