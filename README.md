@@ -33,6 +33,10 @@ These features are used to understand stock price trends and make predictions.
 - Include any metrics used to evaluate the model performance (e.g., RMSE, MAE).
 - Visualizations of predicted vs. actual stock prices.
 
+# Examples
+![Alt text for image](visualization/MA.png)
+
+
 ## Installation and Usage
 Instructions on how to set up the project environment:
 ```bash
@@ -44,8 +48,3 @@ cd [project-directory]
 
 # install dependencies
 pip install -r requirements.txt
-
-
-
-## Examples
-![Alt text for image](visualization/MA.png)
