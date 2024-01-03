@@ -33,9 +33,14 @@ These features are used to understand stock price trends and make predictions.
 - Include any metrics used to evaluate the model performance (e.g., RMSE, MAE).
 - Visualizations of predicted vs. actual stock prices.
 
-# Examples
+## Examples
+### MA Graph
 ![MA Graph](visualization/MA.png)
 
+### RNN Graphs
+![RNN Graph_1](visualization/rnn_1.png)
+![RNN Graph_2](visualization/rnn_2.png)
+![RNN Graph_3](visualization/rnn_3.png)
 
 ## Installation and Usage
 Instructions on how to set up the project environment:
