@@ -43,9 +43,11 @@ These features are used to understand stock price trends and make predictions.
 ### MA Graph
 ![MA Graph](visualization/MA.png)
 
-### RNN Graphs
+### RNN Graph
 ![RNN Graph_1](visualization/rnn_1.png)
 
+### LSTM Graph
+![LSTM Graph_1](visualization/lstm.png)
 
 ## Installation and Usage
 Instructions on how to set up the project environment:
