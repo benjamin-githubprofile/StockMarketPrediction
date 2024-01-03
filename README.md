@@ -34,7 +34,7 @@ These features are used to understand stock price trends and make predictions.
 - Visualizations of predicted vs. actual stock prices.
 
 # Examples
-![Alt text for image](visualization/MA.png)
+!MA Graph(visualization/MA.png)
 
 
 ## Installation and Usage
