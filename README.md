@@ -1,4 +1,4 @@
-# Google Stock Prediction using LSTM and RNN
+# Stock Price Prediction using LSTM and RNN
 
 ## Overview
 This project aims to predict Google's stock prices using advanced machine learning techniques, specifically Long Short-Term Memory (LSTM) and Recurrent Neural Networks (RNN). The project is divided into two main Jupyter notebooks, one focusing on LSTM and the other combining RNN with LSTM methodologies.
