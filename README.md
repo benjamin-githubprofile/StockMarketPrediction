@@ -44,3 +44,8 @@ cd [project-directory]
 
 # install dependencies
 pip install -r requirements.txt
+
+
+
+## Examples
+![Alt text for image](visualization/MA.png)
